@@ -1,6 +1,7 @@
-# PyXor
-<a href="https://pypi.org/project/PyXor/" target="_blank">
-  <img alt="Install" src="https://img.shields.io/badge/ModulePage-pypi-brightgreen.svg" />
+# PyXor [![Downloads](https://pepy.tech/badge/pyxor)](https://pypi.org/project/PyXor/)
+
+
+
   
 ## Langage
   Python 3.9.4
